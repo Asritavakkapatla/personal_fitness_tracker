@@ -1,1 +1,1 @@
-# personal_fitness_tracker
+# Personal-Fitness-Tracker
